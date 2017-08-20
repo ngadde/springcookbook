@@ -27,5 +27,6 @@
 	</dependencies>
 	<modules>
 		<module>ConditionalBean</module>
+		<module>Configurations</module>
 	</modules>
 </project>
