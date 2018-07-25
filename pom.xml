@@ -28,5 +28,6 @@
 	<modules>
 		<module>ConditionalBean</module>
 		<module>Configurations</module>
-	</modules>
+        <module>oauth2-server</module>
+    </modules>
 </project>
